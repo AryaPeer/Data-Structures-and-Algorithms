@@ -8,4 +8,4 @@ This repository contains the code for three assignments for my Data Structures a
 
 - Assignment 2: Sequential List and Doubly Linked List
 
-- Assignment 3: Binary Search Tree
+- Assignment 3: Binary Search Tree, AVL Tree
